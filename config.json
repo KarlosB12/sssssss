@@ -2,5 +2,5 @@
 	"ip":"sss1.ploudos.me",
 	"port": "25565",
 	"name": "GOD",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
